@@ -22,7 +22,8 @@ Sadly its tough being a developer, but hopefully this time I can actually make s
 
 ## Contact/Help 📫
 If you'd like to help me on one of my [Projects](https://github.com/NotSoNitro/NotSoNitro/edit/main/README.md#contacthelp) then feel free to DM me on my [Discord](discord.com/users/505792168468807681) or just add me @notsonitr0
-Here you can also contact me about anything aswell!
+
+Here you can also contact me about anything as well!
 
 ## Fun Fact ⚡
 I actually started programming on Roblox as something to do for fun since I used to use script which could be used via the `require()` function on roblox and i used to have over 30k scripts (crazy i know) and I wanted to make something similar to one of those scripts whcih was basically make an executor which can execute code to actually run these scripts. This was all a learning experience for me and now I do much more better things which help the community, also funny enough I've made an executor so many times I've actually started to see myself getting better at making nice looking UI's and now I've also gained the skill of UX/UI Designing so theres a perk from all this as well 😅
