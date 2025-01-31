@@ -33,7 +33,7 @@ This was all a learning experience for me and now I do much more better things w
 ## Stats 📊
 These are my Github Stats!
 
-![NotSoNitro's Stats](https://github-readme-stats.vercel.app/api?username=NotSoNitro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NotSoNitro's Stats](https://github-readme-stats.vercel.app/api?username=NotSoNitro&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
 
-![NotSoNitro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotSoNitro&theme=vue-dark&hide_border=true)
-![NotSoNitro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoNitro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![NotSoNitro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotSoNitro&theme=vue-dark&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
+![NotSoNitro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSoNitro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
