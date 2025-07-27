@@ -21,7 +21,7 @@ I really enjoy programming as it's one of my favourite hobbies, It also helps me
 Sadly its tough being a developer, but hopefully this time I can actually make something that'll be useful for someone! Any help would be so appreciated as I've been a solo developer every since I've first started back in 2016. 😁
 
 ## Contact/Help 📫
-If you'd like to help me on one of my [Projects](https://github.com/NotSoNitro/NotSoNitro/edit/main/README.md#contacthelp) then feel free to DM me on my [Discord](discord.com/users/505792168468807681) or just add me @notsonitr0
+If you'd like to help me on one of my [Projects](https://github.com/NotSoNitro/NotSoNitro/edit/main/README.md#contacthelp) then feel free to DM me on my [Discord](https://discord.com/users/505792168468807681) or just add me @notsonitr0
 
 Here you can also contact me about anything as well!
 
